@@ -1,6 +1,7 @@
 # Material da trilha RESTful com Java
 
-Este repositório contém o material da trilha.
+Este repositório contém o material ministrado na trilha, disponibilizado de forma a
+permitir que outras pessoas possam seguir o conteúdo por conta própria.
 
 ## Pré-requisitos
 
@@ -12,6 +13,7 @@ Para seguir na trilha é necessário possuir os seguintes softwares instalados:
 * [Gradle](https://gradle.org/)
 * [Ruby com RubyGems](https://www.ruby-lang.org/en/) - precisamos disso para conseguir instalar o
 Travis CLI.
+* [PostgreSQL 9+](https://www.postgresql.org/)
 
 Também será necessário possuir contas nos seguintes serviços:
 
@@ -27,3 +29,6 @@ Também será necessário possuir contas nos seguintes serviços:
 1. [Desenvolvendo uma versão mocada](05_desenvolvendo_uma_versao_mocada.md)
 1. [Vamos falar sobre DevOps](06_devops.md)
 1. [Usando Swagger para documentar nossa API](07_swagger.md)
+1. [Substituindo o mecanismo de armazenamento](08_armazenamento.md)
+1. [Heroku Add-ons](09_heroku_addons.md)
+1. [Especificando e implementando os endpoints de administração](10_administracao.md)
